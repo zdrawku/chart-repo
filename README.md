@@ -6,7 +6,7 @@ This project was generated with [App Builder Code Gen](https://www.infragistics.
 
 Run `npm start` to build the application, start a web server and open the application in the default browser. The application will open in `http://localhost:4200/` by default.
 
-## Build
+## Build test test
 
 Run `npm run build` to build the application into an output directory.
 
